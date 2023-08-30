@@ -1,0 +1,5 @@
+{{#user}}
+Name: Madhav Sanil Panicker
+Skills: HTML, CSS, JS, Python, Java, React.js, SQL
+Email: madhavpanicker2002@gmail.com
+{{/user}}
